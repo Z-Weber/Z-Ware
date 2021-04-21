@@ -1,0 +1,3 @@
+Z-Ware Company is a contract software company. They cover the entire software development cycle, from needs analysis through release to production. The company pricipal has 50 years of sofware design and development experience in every major syntax (C, Pascal, Basic) and level of deployment (PC, Hub, Server). He has worked for consulting companies (ProData, Best, CIBER) and software companies (Genesys, Tesseract, Oracle) as well as an independent contractor.
+
+Z-Ware Company publishes demonstartion software on GitHub to benefit the development community with solutions to problems they've encountered.
